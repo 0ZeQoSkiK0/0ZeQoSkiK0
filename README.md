@@ -1,5 +1,5 @@
 <hr/>
-<h2 align="center">❅ Hola, mi apodo es ZeQoSkiK ❅</h2>
+<h2 align="center">♱ Hola, mi apodo es ZeQoSkiK ♱</h2>
 <hr/>
 <h4>Estoy interesado en:</h4>
 <ul>
