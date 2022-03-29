@@ -22,6 +22,3 @@
   <a href="https://es.wikipedia.org/wiki/Python"><img alt="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px" /></a>
 <a href="https://es.wikipedia.org/wiki/Bootstrap_(framework)"><img alt="BOOTSTRAP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="50px" width="50px" /></a>
 </p>
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1h14FAC4EKj4xvK1mV2RPX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
